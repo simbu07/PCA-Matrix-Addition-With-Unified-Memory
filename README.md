@@ -1,5 +1,5 @@
 
-## <p align="left">Ex No: 1 <br>Date: 28/10/2023</p>
+## <p align="left">Ex No: 4 <br>Date: 28/10/2023</p>
 # <p align="center"> Matrix-Addition-With-Unified-Memory</p>
 
 Refer to the program sumMatrixGPUManaged.cu. Would removing the memsets below affect performance? If you can, check performance with nvprof or nvvp.
