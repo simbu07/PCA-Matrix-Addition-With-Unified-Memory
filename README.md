@@ -30,7 +30,7 @@ Declare the main function and set up the device & data size of matrix , perform 
 
 Execute the program and run the terminal.
 
-## OUTPUT :
+## PROGRAM :
 
 ### With Memset :
 
